@@ -1,0 +1,40 @@
+.about {
+    padding: 0 20px;
+}
+
+.about-img {
+    float: left;
+    width: 367x;
+    margin-right: 20px;
+    border: 1px solid #adcfec;
+}
+
+.about h3 {
+    color: #366766;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.about p {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.values {
+    background-color: #cafe36;
+}
+
+.value-box {
+    float: left;
+    width: 360px;
+    margin: 6.7px;
+    padding: 18px;
+    background-color: #67cafe;
+    border-top: 4px solid #f36c67;
+    text-align: center;
+}
+
+.value-box h3 {
+    color: #f67c36;
+    margin-bottom: 3.6px;
+}
